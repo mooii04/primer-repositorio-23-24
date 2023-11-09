@@ -5,4 +5,6 @@ Este es mi primer remoto
 
 Ahora vamos a añadir cambios y los vamos a subir al repositorio
 
-¡Teno mucho sueño y quiero aprobar Entornos!
+¡Tengo mucho sueño y quiero aprobar Entornos!
+
+Ahora toca examen de Entornos, de locos
